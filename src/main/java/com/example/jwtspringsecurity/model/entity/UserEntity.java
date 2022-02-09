@@ -8,7 +8,6 @@ import javax.persistence.ManyToMany;
 import javax.persistence.Table;
 import java.util.ArrayList;
 import java.util.Collection;
-import java.util.Set;
 
 @Entity
 @Table(name = "users")
